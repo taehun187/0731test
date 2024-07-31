@@ -1,6 +1,6 @@
 package com.taehun.test;
 
 public class taehun {
-    String name = "LEETAEHUN";
+    String name = "TAEHUNLEE";
     int age = 32;
 }
